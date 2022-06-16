@@ -7071,21 +7071,6 @@ anu = `*Uptime: ${runtime(process.uptime())}*
 ┗━━━━━━━━━━⦿
 
 
-┏━❰ *PHOTO 360* ❱
-┃➩${prefix}logo
-┃➩${prefix}logo2
-┃➩${prefix}logo3
-┃➩${prefix}logo4
-┃➩${prefix}logogaming
-┃➩${prefix}spiderlogo
-┃➩${prefix}galaxy
-┃➩${prefix}crossfire
-┃➩${prefix}ffcover
-┃➩${prefix}logogirl
-┃➩${prefix}logogold
-┗━━━━━━━━━━⦿
-
-
 ┏━❰ *SHORTLINK* ❱
 ┃➩${prefix}shortlink
 ┃➩${prefix}tinyurl

@@ -26,13 +26,13 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	zenz: 'https://zenzapi.xyz',
 	dapa: 'https://dapuhy.xyz'
 }
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': '9EF818962D04',
+	'https://zenzapi.xyz': '7A012A0F7751',
 	'https://dapuhy.xyz': 'piceg'
 }
 

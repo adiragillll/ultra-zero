@@ -174,7 +174,7 @@ ZimBotInc.sendMessage(anu.id, buttonMessage, {quoted:fgclink})
                     let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6283133162295-6283133162295@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                     he = `He/She is gone bro ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
                     let link = `https://chat.whatsapp.com/Dxtz9xAxial3A43AJetabY`
-let buttons = [
+/*let buttons = [
 {buttonId: `halo`, buttonText: {displayText: 'BYE'}, type: 1}
 ]
 let buttonMessage = {
@@ -203,7 +203,7 @@ ZimBotInc.sendMessage(anu.id, buttonMessage, {quoted:fgclink})
         } catch (err) {
             console.log(err)
         }
-    })
+    })*/
 	
     // Setting
     ZimBotInc.decodeJid = (jid) => {
